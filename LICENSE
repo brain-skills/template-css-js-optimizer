@@ -1,21 +1,69 @@
-MIT License
+Mega Digital — Template CSS/JS Optimizer
+Free Use License — Modification and Redistribution Restricted
 
-Copyright (c) 2026 George B.
+Copyright (c) 2026 Mega Digital Studio. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Scope
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This license applies to the original software, documentation, and assets
+included in this project for which Mega Digital Studio holds the rights
+(the "Software"). Third-party components are addressed separately below.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Free use
+
+Mega Digital Studio grants everyone a non-exclusive, royalty-free permission
+to download, install, and use the unmodified Software for any lawful purpose,
+including personal and commercial purposes, at no charge. Copies reasonably
+necessary for installation, authorized use, and private backups are permitted,
+provided that copyright notices and this license are retained.
+
+Changing settings through the provided interface and processing templates with
+the Software are permitted uses and are not modifications of the Software.
+
+3. Modification and redistribution
+
+Except as expressly permitted by this license, applicable law, or a separate
+written authorization from Mega Digital Studio, no permission is granted to:
+
+- modify, adapt, or create derivative versions of the Software;
+- redistribute, publish, sublicense, sell, rent, or otherwise provide copies
+  of the Software to others, whether modified or unmodified; or
+- make the Software available through a public mirror or another distribution
+  channel.
+
+These activities require prior written permission from Mega Digital Studio.
+Permission to use the Software commercially does not itself grant permission
+to modify or redistribute the Software.
+
+4. User templates and output
+
+This license does not claim ownership of, or impose its Software restrictions
+on, templates, code, or other files supplied by users or produced by processing
+those files. Such materials remain subject to their existing rights and
+licenses. Users remain responsible for having the rights needed to process
+and use those materials.
+
+5. Third-party components
+
+Third-party components remain subject to their own licenses. In particular,
+Acorn is distributed under the MIT License reproduced in README.md and
+retained in the embedded application code.
+Nothing in this license restricts rights granted by those third-party
+licenses or permits removal of their required notices.
+
+6. Mandatory rights and hosting platforms
+
+Nothing in this license limits rights that cannot be restricted under
+applicable law or rights granted under applicable hosting-platform terms,
+including GitHub's terms for viewing and forking public repositories within
+its service.
+
+7. Disclaimer
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. TO THAT EXTENT, MEGA DIGITAL STUDIO SHALL NOT BE LIABLE FOR
+DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+Permission requests: https://megadigital.studio/
